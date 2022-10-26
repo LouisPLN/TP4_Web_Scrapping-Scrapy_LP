@@ -27,5 +27,5 @@ class ReviewsBoursoramaItem(scrapy.Item):
      var = scrapy.Field()
      hight = scrapy.Field()
      low = scrapy.Field()
-     open = scrapy.Field()
+     open_ = scrapy.Field()
      time = scrapy.Field()
